@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="barra_sup">
+        <item name="android:width">150dp</item>
+        <item name="lineHeight">15dp</item>
+        <item name="android:fontFamily">@font/work_sans_bold</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">60px</item>
+    </style>
+
+    <style name="imagenes_redondeada">
+        <item name="cornerSize">50%</item>
+
+    </style>
+</resources>
